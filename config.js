@@ -15,7 +15,7 @@ var config = {
         "嘿嘿~",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/qq_pic_merged_1731499393509.jpg",
+        "最喜欢的宝宝": "./imgs/qq_pic_merged_1731499393509.jpg",
     },
     desc: {
         turn_on: "开始",
